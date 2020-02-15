@@ -30,6 +30,11 @@ class person
         cout << "this person lives in " << location;
     }
 
+    void chat()
+    {
+        cout <<"I am yo";
+    }
+
 };
 
 
