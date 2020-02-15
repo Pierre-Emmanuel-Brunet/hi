@@ -6,6 +6,8 @@ class person
     public:
     int age;
     int size;
+    int weight;
+    string haircolor;
 
     private:
     string location;
