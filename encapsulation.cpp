@@ -5,6 +5,7 @@ class person
 {
     public:
     int age;
+    int size;
 
     private:
     string location;
